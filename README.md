@@ -10,7 +10,11 @@ ChatSystem / Chatroom Tutorial
 ✖️ https://youtu.be/_VtxkCvViGM
 
 
-ChatSystem / Chatroom Tutorial
+News System Tutorial
 
 ✖️ https://youtu.be/fnc5haO5-NA
+
+Zufällig Generierte Zahlen
+
+✖️ https://youtu.be/CHgpyQmKazs
 
